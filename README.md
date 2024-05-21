@@ -74,11 +74,11 @@ cd projeto_tela_login/ </code></pre>
 
   <h2>Licença</h2>
   <p>Este projeto está licenciado sob a licença MIT. Veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
-  <p>Tela do Login</p>
+  <h1>Tela do Login</h1>
   
   ![image](https://github.com/Schlotged/projeto_tela_login/assets/86088828/09042101-adc4-4063-9b3f-745ea0bb403c)
 
-  <p>Tela para Registrar-se</p>
+  <h1>Tela para Registrar-se</h1>
   
   ![image](https://github.com/Schlotged/projeto_tela_login/assets/86088828/f7371077-877c-4fc6-99dd-6bda56bf56cc)
 
