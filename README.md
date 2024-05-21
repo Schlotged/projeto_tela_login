@@ -45,8 +45,8 @@
   <h3>Instruções</h3>
   <ol>
       <li><strong>Clone o repositório:</strong>
-          <pre><code>git clone https://github.com/seu_usuario/seu_repositorio.git
-cd seu_repositorio</code></pre>
+          <pre><code>git clone [https://github.com/seu_usuario/seu_repositorio.git](https://github.com/Schlotged/projeto_tela_login.git)
+cd projeto_tela_login/ </code></pre>
         </li>
         <li><strong>Configurar o MongoDB:</strong>
             <ul>
@@ -60,7 +60,7 @@ cd seu_repositorio</code></pre>
     </ol>
 
   <h3>Estrutura do Projeto</h3>
-  <pre><code>seu_repositorio/
+  <pre><code>projeto_tela_login/
 │
 ├── main.py                # Script principal para a tela de login e cadastro
 ├── login.py               # Script para a tela de login
